@@ -1,0 +1,24 @@
+/* reset navbar spacing */
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* mobile dropdown background */
+.navbar-collapse {
+  background-color: #ddd;
+}
+
+/* menu section boxes */
+.menu-box {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 20px;
+  height: 700px; /* tall for scrolling */
+  margin-bottom: 20px;
+}
+
+/* Back to top link spacing */
+.menu-box a {
+  display: inline-block;
+  margin-top: 20px;
+}
